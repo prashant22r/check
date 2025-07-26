@@ -1,0 +1,19 @@
+body{
+    font-size: 20px;
+}
+div{
+    background-color: beige;
+    margin: 5px;
+    font-weight: 600;
+}
+
+table ,th,td,tr{
+    background-color: rgb(242, 209, 209);
+    font-size: 18px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table{
+    margin:auto;
+}
